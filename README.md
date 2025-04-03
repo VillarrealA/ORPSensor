@@ -15,7 +15,7 @@ Este repositorio contiene el código fuente para la lectura del potencial de óx
 
 1. **Descarga este repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/alerta-orp.git
+   git clone https://github.com/VillarrealA/ORPSensor/alerta-orp.git
    ```
 2. **Abre `Codigo_alertas.ino` con Arduino IDE**.
 
