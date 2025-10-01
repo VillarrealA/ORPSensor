@@ -66,4 +66,4 @@ Desarrollado por:
 
 ## 📫 Contacto
 
-Si tienes dudas o sugerencias, puedes escribir a: [arojaso@ipn.mx](mailto:arojaso@ipn.mx)
+Si tienes dudas o sugerencias, puedes escribir a: [alejandro.v@ciencias.unam.mx](mailto:alejandro.v@ciencias.unam.mx)
